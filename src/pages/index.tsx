@@ -29,7 +29,7 @@ const Home: NextPage = () => {
 							<Input />
 						</div>
 						<img
-							src="https://via.placeholder.com/1080x720?text=Image"
+							src="https://placehold.co/1080x720?text=Image"
 							alt="hero"
 							className="h-full w-11/12 object-cover object-center"
 						/>
@@ -45,7 +45,7 @@ const Home: NextPage = () => {
 											className="h-11 w-11 overflow-hidden rounded-full transition-all duration-75 ease-in-out hover:scale-125"
 										>
 											<img
-												src="https://via.placeholder.com/1080x720?text=Image"
+												src="https://placehold.co/1080x720?text=Image"
 												alt="client"
 												className="h-full w-full object-cover object-center"
 											/>
@@ -129,7 +129,7 @@ const Home: NextPage = () => {
 						<div className="sticky top-1/4 col-span-2 flex h-max justify-center">
 							<div className="h-1/4 w-8/12">
 								<img
-									src="https://via.placeholder.com/1080x720?text=Image"
+									src="https://placehold.co/1080x720?text=Image"
 									alt="hero"
 									className="h-full w-full object-cover object-center"
 								/>
@@ -212,7 +212,7 @@ const Home: NextPage = () => {
 						</div>
 						<div className="w-11/12">
 							<img
-								src="https://via.placeholder.com/1080x720?text=Image"
+								src="https://placehold.co/1080x720?text=Image"
 								alt="hero"
 								className="h-full w-full object-cover object-center"
 							/>
